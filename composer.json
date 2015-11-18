@@ -1,9 +1,4 @@
 {
-    "authors": [
-        {
-            "name": "Test",
-            "email": "name@example.com",
-            "role": "Developer"
-        }
-    ]
+    "name": "prototypemvc/prototypemvc",
+    "type": "library"
 }
