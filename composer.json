@@ -4,6 +4,6 @@
             "name": "Test",
             "email": "name@example.com",
             "role": "Developer"
-        },
+        }
     ]
 }
